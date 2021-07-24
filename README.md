@@ -1,1 +1,1 @@
-# realtime-whiteboard
+# PepBoard
